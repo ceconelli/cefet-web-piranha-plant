@@ -1,0 +1,28 @@
+blockquote {
+    margin-left: 60px;
+    font-style: italic;
+    background-color: transparent;
+}
+
+#voce_sabia {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+}
+
+strong {
+    font-style: bold;
+}
+
+img {
+    width: 300px;
+    border: 8px solid limegreen;
+    border-radius: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+q {
+    font-style: italic;
+}
